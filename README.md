@@ -21,6 +21,6 @@
 - `Project_amputees.ipynb` – full analysis (Google Colab)
 - `k3_SI_vs_speed.png` – main figure (K3 group)
 - `K2_vs_K3.png` – K2 vs K3 comparison
-- `report.pdf` – short report (methods, results, discussion)
+- `report_gait_asymmetry.pdf` – short report (methods, results, discussion)
 
 **Author:** Martina Agostini, BSc Biomedical Engineering, Politecnico di Milano
